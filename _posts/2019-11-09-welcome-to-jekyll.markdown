@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Housing in Multiple Occupation"
 date:   2019-11-09 10:21:50 +0000
 categories: jekyll update
 ---
 
-![alt text](/img/snap.jpg "Logo Title Text 1")
+![alt text](https://www.dropbox.com/s/us34ck00ffuy87h/snap.jpg?raw=1 "test")
 
+hola!!!
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
